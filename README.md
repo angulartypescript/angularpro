@@ -10,8 +10,7 @@ hello 45
 do it again
 
 sx
-sds
-cdcd
+
 sc
 
 dc
@@ -20,5 +19,3 @@ dc
 dcee
 dcs
 xx
-
-last
